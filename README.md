@@ -18,7 +18,7 @@
 | 921113490  | Johnnata Fernando Martins da Silva   | TBD  | ?    |
 
 ## Descrição do Projeto
-O site foi desenvolvido para uma pizzaria fictícia com o intuito de enfatizar os sabores e texturas das pizzas, confortabilidade durante a navegação no site e versatilidade da plataforma visando o melhor atendimento ao cliente, com finalidade na venda do produto. A plataforma foi desenvolvida em HTML, BOOTSTRAP,CSS e MySQL.
+O site foi desenvolvido para uma pizzaria fictícia com o intuito de enfatizar os sabores e texturas das pizzas, confortabilidade durante a navegação no site e versatilidade da plataforma visando o melhor atendimento ao cliente, com finalidade na venda do produto. A plataforma foi desenvolvida em HTML, BOOTSTRAP,CSS, SQL e PHP.
 
 ## Endereço da Aplicação
 
