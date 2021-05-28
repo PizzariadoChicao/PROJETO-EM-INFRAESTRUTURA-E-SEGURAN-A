@@ -25,4 +25,8 @@ O site foi desenvolvido para uma pizzaria fictícia com o intuito de enfatizar o
 http://pizzariadoseuchico.000webhostapp.com/
 
 ## Outras Observações
-Quaisquer instruções sobre instalação, configuração, acesso, etc., deverão constar neste documento para que a correção pelo professor possa ser realizada.
+Para ter acesso ao Painel Administrativo da pizzaria, onde serão realizados os controles de pedidos, reservas e funcionários, precisará selecionar a opção: "Painel Administrativo" no menu principal do site.
+
+Ao entrar no Painel, logar com as seguintes credenciais:
+Usuário: Edson@pizzariadochicao.com.br
+Senha: Edson123
