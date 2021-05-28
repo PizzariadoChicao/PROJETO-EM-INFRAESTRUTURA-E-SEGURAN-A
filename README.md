@@ -28,5 +28,6 @@ http://pizzariadoseuchico.000webhostapp.com/
 Para ter acesso ao Painel Administrativo da pizzaria, onde serão realizados os controles de pedidos, reservas e funcionários, precisará selecionar a opção: "Painel Administrativo" no menu principal do site.
 
 Ao entrar no Painel, logar com as seguintes credenciais:
+
 Usuário: Edson@pizzariadochicao.com.br
 Senha: Edson123
