@@ -14,7 +14,7 @@
 | 2220113723  | Igor Pereira Silva   | TBD  | ?    |
 | 2219111638  | Vinícius Pereira Silva   | TBD  | ?    |
 | 418201971  | Vitoria Domingos Lima   | TBD  | ?    |
-| 2220110643  | Anderson Lincoln Santos de Lima   | TBD  | 03/A    |
+| 2220110643  | Anderson Lincoln Santos de Lima   | TBD  | 1º 20    |
 | 921113490  | Johnnata Fernando Martins da Silva   | TBD  | ?    |
 
 ## Descrição do Projeto
