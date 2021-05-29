@@ -7,8 +7,8 @@
 ## Integrantes
 | RA   | NOME COMPLETO | CURSO | TURMA |
 |------|---------------|-------|-------|
-| 2220112175  | Matheus Melli  | TBD  | ?    |
-| 2220112530  | André Expedito Ventura dos Santos    | TBD  | ?    |
+| 2220112175  | Matheus Melli  | TBD  | 1º 20    |
+| 2220112530  | André Expedito Ventura dos Santos    | TBD  | 1º 20    |
 | 2220106873  | Frank William Onofre dos Santos   | TBD  | ?   |
 | 2220201693  | Gabriel Braga Catão   | TBD  | ?    |
 | 2220113723  | Igor Pereira Silva   | TBD  | ?    |
