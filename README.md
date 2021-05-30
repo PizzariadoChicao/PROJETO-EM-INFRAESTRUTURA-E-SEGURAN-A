@@ -9,13 +9,13 @@
 |------|---------------|-------|-------|
 | 2220112175  | Matheus Melli  | TBD  | 1º 20    |
 | 2220112530  | André Expedito Ventura dos Santos    | TBD  | 1º 20    |
-| 2220106873  | Frank William Onofre dos Santos   | TBD  | ?   |
-| 2220201693  | Gabriel Braga Catão   | TBD  | ?    |
-| 2220113723  | Igor Pereira Silva   | TBD  | ?    |
-| 2219111638  | Vinícius Pereira Silva   | TBD  | ?    |
-| 418201971  | Vitoria Domingos Lima   | TBD  | ?    |
+| 2220106873  | Frank William Onofre dos Santos   | TBD  | 1º 20   |
+| 2220201693  | Gabriel Braga Catão   | TBD  | 2º 20    |
+| 2220113723  | Igor Pereira Silva   | TBD  | 1º 20    |
+| 2219111638  | Vinícius Pereira Silva   | TBD  | 1º 19    |
+| 418201971  | Vitoria Domingos Lima   | TBD  | 1º 19    |
 | 2220110643  | Anderson Lincoln Santos de Lima   | TBD  | 1º 20    |
-| 921113490  | Johnnata Fernando Martins da Silva   | TBD  | ?    |
+| 921113490  | Johnnata Fernando Martins da Silva   | TBD  | 1º 21    |
 
 ## Descrição do Projeto
 O site foi desenvolvido para uma pizzaria fictícia com o intuito de enfatizar os sabores e texturas das pizzas, confortabilidade durante a navegação no site e versatilidade da plataforma visando o melhor atendimento ao cliente, com finalidade na venda do produto. A plataforma foi desenvolvida em HTML, CSS, SQL e PHP.
