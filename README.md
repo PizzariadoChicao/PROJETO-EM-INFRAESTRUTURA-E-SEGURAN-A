@@ -29,6 +29,6 @@ Para ter acesso ao Painel Administrativo da pizzaria, onde serão realizados os 
 
 Ao entrar no Painel, logar com as seguintes credenciais:
 
-Usuário: Edson@pizzariadochicao.com.br
+Usuário: edson@pizzariadochicao.com.br
 
 Senha: Edson123
